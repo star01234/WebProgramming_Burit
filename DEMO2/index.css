@@ -1,0 +1,57 @@
+ @import url('https://fonts.googleapis.com/css2?family=K2D&display=swap'); 
+*{
+    font-family: 'K2D', sans-serif;
+}
+
+p{
+    color: rgb(2, 19, 255);
+    text-align: center;
+    padding: 10;
+    min-width: 350px;
+    text-decoration: underline overline 2px red; 
+}
+
+.happy{
+    background-color: rgba(52, 210, 238, 0.342);
+    color: rgb(255, 0, 149);
+    border: solid purple;
+    border-radius: 20px;
+    
+}
+
+#love{
+    text-decoration: line-through;
+    background-color: rgba(170, 38, 141, 0.418);
+    color: rgb(255, 0, 234);
+    border: solid purple;
+    border-radius: 20px;
+
+    
+}
+
+.D{
+    text-decoration: line-through red 2px;
+    background-color: rgba(0, 255, 255, 0.479);
+    color: rgb(201, 7, 207);
+    border: solid purple;
+    border-radius: 20px;
+
+}
+
+span{
+    color: rgb(0, 0, 0);
+    
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/modern-pink-geometric-shapes-background_1035-19106.jpg?auto=format&h=200);
+    background-size: cover;
+}
+
+.w{
+    text-decoration: line-through red 2px;
+    background-color: rgba(0, 255, 255, 0.479);
+    color: rgb(201, 7, 207);
+    border: solid purple;
+    border-radius: 20px;
+}
