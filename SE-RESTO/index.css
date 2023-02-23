@@ -32,7 +32,7 @@ section{
 }
 
 .container:nth-child(even){
-    background: #fff;
+    background: #eee;
 }
 .heading{
     text-align: center;
@@ -491,7 +491,7 @@ header .flex .icons #menu-bars{
     border: 0.2rem solid var(--green);
 }
 
-.order form .inputBox .input input textarea{
+.order form .inputBox .input textarea{
     height: 20rem;
     resize: none;
 }
