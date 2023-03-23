@@ -765,6 +765,10 @@ border-radius: var(--radius-6);
   text-align: left;
 }
 .hero .container{
-  
+  max-width: unset;
+  margin-inline: 0;
+}
+.btn-wrapper{
+  justify-content: flex-start;
 }
 }
